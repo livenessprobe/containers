@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/livenessprobe/containers/compare/pg/v1.0.0...pg/v1.1.0) (2023-08-17)
+
+
+### Features
+
+* build postgres image from official ([bc8ccdb](https://github.com/livenessprobe/containers/commit/bc8ccdb81ba8bbbd7ae72f827cffa97e9b21f184))
+
 ## [1.0.0](https://github.com/livenessprobe/containers/compare/pg-v1.3.0...pg/v1.0.0) (2023-08-17)
 
 
