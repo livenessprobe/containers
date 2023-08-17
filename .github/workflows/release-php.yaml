@@ -1,4 +1,4 @@
-name: Release Postgres
+name: Release PHP
 
 on:
   push:

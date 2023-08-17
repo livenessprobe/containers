@@ -1,4 +1,4 @@
-name: Build Postgres
+name: Build PHP
 
 on:
   push:
