@@ -19,5 +19,5 @@ jobs:
           release-type: simple
           path: postgres
           package-name: pg
-          changelog-path: postgres/CHANGELOG.md
+          tag-separator: /
           monorepo-tags: true
