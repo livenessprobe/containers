@@ -36,5 +36,6 @@ jobs:
         with:
           context: postgres
           platforms: linux/arm64,linux/amd64
-          push: false
+          push: true
           tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
