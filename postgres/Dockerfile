@@ -37,7 +37,7 @@ RUN apt-get update \
         && rm -rf /var/lib/apt/lists/*
 
 RUN apt-get update \
-	&& apt-get install -y --no-install-recommends postgresql-${PG_MAJOR}-pg-stat-kcache \
+	&& apt-get install -y --no-install-recommends postgresql-${PG_MAJOR}-pg-stat-kcache postgresql-${PG_MAJOR}-set-user \
 	&& rm -rf /var/lib/apt/lists/*
 
 # Change the uid of postgres to 26
