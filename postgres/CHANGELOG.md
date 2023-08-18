@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.4.0-v1.2](https://github.com/livenessprobe/containers/compare/pg/v15.4.0-v1...pg/v15.4.0-v1.2) (2023-08-18)
+
+
+### Features
+
+* pg set_user ([10b8f0f](https://github.com/livenessprobe/containers/commit/10b8f0fb389f1f7ecec13beaed9de6de2f9ddf32))
+
 ## [15.4.0-v1](https://github.com/livenessprobe/containers/compare/pg/v1.1.0...pg/v15.4.0-v1) (2023-08-18)
 
 
