@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.4.0-v1](https://github.com/livenessprobe/containers/compare/pg/v1.1.0...pg/v15.4.0-v1) (2023-08-18)
+
+
+### Features
+
+* stat cache ext ([f6fa10f](https://github.com/livenessprobe/containers/commit/f6fa10fbf50f0c2b91cd7e5d40444f3c950e306c))
+
 ## [1.1.0](https://github.com/livenessprobe/containers/compare/pg/v1.0.0...pg/v1.1.0) (2023-08-17)
 
 
