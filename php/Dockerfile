@@ -1,4 +1,4 @@
-FROM php:8.2.8-fpm-bookworm as base
+FROM php:8.2.11-fpm-bookworm as base
 WORKDIR /app
 
 RUN apt-get update && \
