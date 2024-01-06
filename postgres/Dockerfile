@@ -1,4 +1,4 @@
-FROM postgres:15.4-bullseye
+FROM postgres:16.1-bookworm
 
 ARG PG_MAJOR=15
 LABEL org.opencontainers.image.description="This Docker image contains PostgreSQL and Barman Cloud based on Postgres 15.4-bullseye."
