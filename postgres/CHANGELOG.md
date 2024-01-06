@@ -1,5 +1,13 @@
 # Changelog
 
+## [16.1.0](https://github.com/livenessprobe/containers/compare/pg/v15.4.0-v1.2...pg/v16.1.0) (2024-01-06)
+
+
+### Features
+
+* pg 16 ([8defe92](https://github.com/livenessprobe/containers/commit/8defe922de1d32aff68ab502fced185ab53d03bd))
+* pg 16.1 ([fcb5344](https://github.com/livenessprobe/containers/commit/fcb53441ade5ca8573458b6122b3569df81aab27))
+
 ## [15.4.0-v1.2](https://github.com/livenessprobe/containers/compare/pg/v15.4.0-v1...pg/v15.4.0-v1.2) (2023-08-18)
 
 
