@@ -3,6 +3,8 @@
   "include-component-in-tag": true,
   "tag-separator": "/",
   "packages": {
-    "php": {}
+    "php": {
+      "release-type": "simple"
+    }
   }
 }

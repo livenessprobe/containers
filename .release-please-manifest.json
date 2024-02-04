@@ -1,7 +1,5 @@
 {
   "packages": {
-    "php": {
-      "release-type": "simple"
-    }
+    "php": "1.0"
   }
 }
