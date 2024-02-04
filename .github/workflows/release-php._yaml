@@ -16,8 +16,3 @@ jobs:
       - uses: google-github-actions/release-please-action@v4
         with:
           token: ${{ secrets.GH_PAT }}
-          release-type: simple
-          path: php
-          package-name: php
-          tag-separator: /
-          monorepo-tags: true

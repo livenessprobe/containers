@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "php": {
+      "monorepo-tags": true,
+      "tag-separator": "/",
+      "release-type": "simple"
+    }
+  }
+}
