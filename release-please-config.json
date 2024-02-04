@@ -2,6 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "simple",
   "packages": {
-    "php": {}
+    "php": {
+      "initial-version": "1.0.0"
+    }
   }
 }
