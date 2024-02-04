@@ -4,6 +4,7 @@
   "tag-separator": "/",
   "packages": {
     "php": {
+      "tag-separator": "/",
       "release-type": "simple"
     }
   }
