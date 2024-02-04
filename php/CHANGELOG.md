@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.3.3-fpm-bookworm](https://github.com/livenessprobe/containers/compare/v8.3.2-fpm-bookworm...v8.3.3-fpm-bookworm) (2024-02-04)
+
+
+### Bug Fixes
+
+* release ([06e60fc](https://github.com/livenessprobe/containers/commit/06e60fc2bc8e7333e3bf78149fd378b252d8b707))
+
 ## [8.3.2-fpm-bookworm](https://github.com/livenessprobe/containers/compare/v8.3.2-fpm-bookworm...v8.3.2-fpm-bookworm) (2024-02-04)
 
 
