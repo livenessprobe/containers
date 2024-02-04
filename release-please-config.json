@@ -1,9 +1,6 @@
 {
-  "packages": {
-    "php": {
-      "monorepo-tags": true,
-      "tag-separator": "/",
-      "release-type": "simple"
-    }
-  }
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "include-component-in-tag": true,
+  "tag-separator": "/",
+  "packages": {}
 }
